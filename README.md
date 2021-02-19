@@ -2,7 +2,7 @@
 
 ## Resolução dos exercícios propostos
 
-#### Este é um repositório feito com o intuito de realizar os exercícios dos cursos do freeCodeCamp. Conheça o curso em: [freeCodeCamp](https://www.freecodecamp.org/).
+#### Este é um repositório feito com o intuito de realizar os exercícios dos cursos do freeCodeCamp. Conheça o curso em: [freeCodeCamp](https://www.freecodecamp.org/)
 
 ## Trilhas e Certificados :books: 
 
