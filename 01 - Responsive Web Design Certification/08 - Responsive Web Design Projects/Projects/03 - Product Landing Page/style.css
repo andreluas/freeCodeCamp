@@ -110,7 +110,6 @@ nav {
     text-align: center;
     padding: 0 50px;
   }
-  
   nav li {
     padding-bottom: 5px;
   }
@@ -279,7 +278,6 @@ nav > ul {
   #pricing {
     flex-direction: column;
   }
-
   .product {
     max-width: 300px;
     width: 100%;
@@ -292,9 +290,6 @@ footer {
   margin-top: 30px;
   background-color: #ddd;
   padding: 20px;
-  position: absolute;
-  left: 0;
-  width: 100%;
 }
 
 footer > ul {
