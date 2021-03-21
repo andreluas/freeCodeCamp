@@ -18,4 +18,4 @@
 - [Responsive Web Design Projects](https://github.com/andreluas/freeCodeCamp/tree/main/01%20-%20Responsive%20Web%20Design%20Certification/08%20-%20Responsive%20Web%20Design%20Projects) - 5/5 ✔
 
 ### Certification
-[https://www.freecodecamp.org/certification/andreluas/responsive-web-design]
+https://www.freecodecamp.org/certification/andreluas/responsive-web-design
