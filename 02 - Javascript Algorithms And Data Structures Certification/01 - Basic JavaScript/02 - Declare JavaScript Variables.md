@@ -11,7 +11,7 @@ For example, computers distinguish between numbers, such as the number `12`, and
 We tell JavaScript to create or declare a variable by putting the keyword `var` in front of it, like so:
 
 ```js
-var ourName
+var ourName;
 ```
 
 creates a `variable` called `ourName`. In JavaScript we end statements with semicolons.
