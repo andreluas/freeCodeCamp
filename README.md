@@ -24,4 +24,4 @@ https://www.freecodecamp.org/certification/andreluas/responsive-web-design
 
 ## 02. JavaScript Algorithms and Data Structures Certification (300 hours)
 
-- Basic JavaScript - 002/107
+- [Basic JavaScript](https://github.com/andreluas/freeCodeCamp/tree/main/02%20-%20Javascript%20Algorithms%20And%20Data%20Structures%20Certification/01%20-%20Basic%20JavaScript) - 002/107
